@@ -1,1 +1,1 @@
-# Mynta-CLONE
+# Netflix-CLONE
